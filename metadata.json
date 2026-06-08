@@ -1,0 +1,6 @@
+{
+  "name": "Product Recommendation System",
+  "description": "Smart product recommender using Apriori and FP-Growth association rules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
